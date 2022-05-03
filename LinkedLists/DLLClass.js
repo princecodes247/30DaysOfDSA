@@ -1,3 +1,4 @@
+// Implementation of a Double Linked List
 class LinkedListNode {
     constructor(value) {
       this.value = value;
